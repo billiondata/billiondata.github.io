@@ -452,7 +452,7 @@ a:not([href]):not([tabindex]):hover {
   line-height: 22px;
 }
 #features .box-item .text p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 26px;
 }
 #features .box-item:hover .icon {
